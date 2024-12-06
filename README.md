@@ -15,7 +15,6 @@ Zine Team:
 -	Larah Posadas
 -	Tatyana Pollard
 -	Sylvia Vargas
-![image](https://github.com/user-attachments/assets/99cc7824-31b3-4a2e-8980-1b87e40501db)
 
 
 ## QR Code
